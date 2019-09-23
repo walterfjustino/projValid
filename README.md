@@ -10,7 +10,7 @@ O produto Multipag Bradesco trata-se de arquivos que os clientes enviam para efe
 Esse validador que estamos desenvolvendo na verdade já existe uma versão, porem estamos dando uma cara melhor uma interface amigavel e por ser um projeto opensource contamos com a colaboração da comunidade para ajudar a corrigir bugs e melhorar sempre o codigo. 
 
 - [x] Criar uma interface amigavel no front-end
-- [ ] Configurar todo back-end com a validaço dos arquivos Multipag
+- [ ] Configurar todo back-end (ou pelo front-end mesmo pelo javascript) com a validaço do arquivo Multipag
 - [ ] Estender o projeto para validaço de demais arquivos bancarios
 - [ ] Unir a comunidade opensource e programadores do Banco Bradesco 
 
