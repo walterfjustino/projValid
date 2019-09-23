@@ -14,7 +14,7 @@ Esse validador que estamos desenvolvendo na verdade já existe uma versão, pore
 - [ ] Estender o projeto para validaço de demais arquivos bancarios
 - [ ] Unir a comunidade opensource e programadores Banco Bradesco 
 
-Contribuintes:
+<h3>Contribuintes:<h3>
 
 <h2>Walter Justino Fernandes</h2>
 
