@@ -12,7 +12,7 @@ Esse validador que estamos desenvolvendo na verdade já existe uma versão, pore
 - [x] Criar uma interface amigavel no front-end
 - [ ] Configurar todo back-end com a validaço dos arquivos Multipag
 - [ ] Estender o projeto para validaço de demais arquivos bancarios
-- [ ] Unir a comunidade opensource e programadores Banco Bradesco 
+- [ ] Unir a comunidade opensource e programadores do Banco Bradesco 
 
 <h3>Contribuintes:<h3>
 
