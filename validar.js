@@ -14,7 +14,7 @@ function validar() {
 }
 
 
-<script> 
+
             
             var arquivo = window.prompt('insira o arquivo...')
             document.write(`Arquivo tem ${arquivo.length} posições.`)
@@ -25,4 +25,4 @@ function validar() {
             }
             
             
-            </script>*/
+ 
