@@ -22,11 +22,15 @@ Esse validador que estamos desenvolvendo na verdade já existe uma versão, pore
 
 acesse meu linkedin: https://www.linkedin.com/in/walter-fernandes-justino-024b9114a/
 
+e-mail: walterfjustino@gmail.com
+
 <h2>Luan Perosa Chitto</h2>
 
 ![image](https://user-images.githubusercontent.com/50602816/65398219-59026580-dd8c-11e9-9597-394ddf1d6cce.png)
 
 acesse meu linkedin: https://www.linkedin.com/in/luan-perosa/
+
+e-mail: luan.perosa@hotmail.com
 
 Contribua com nosso projeto! 
 
