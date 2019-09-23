@@ -1,7 +1,8 @@
-# projValid - Validador Multipag
-<h1>Validador de arquivos bancarios - Multipag </h1>
+# projValid - Validador de arquivos CNAB versão Multipag.
+<h1>Validador de arquivos CNAB versão Multipag.  Bradesco</h1>
 
-Iniciamos esse projeto com objetivo de unificar nossa vontade de aprender, paixão por programação e amizade com uma solução que entendemos ser necessaria implantação. 
+Iniciamos esse projeto com objetivo de unificar nossa vontade de aprender, paixão por programação e amizade com uma solução que entendemos ser de grande ajuda à muitas empresas que utilizam a troca de arquivos com o banco, porém às vezes tem uma certa dificuldade de entendimento na validação desses arquivos.
+obs: os arquivos serão validados no padrão CNAB Bradesco. 
 
 - [x] Criar uma interface amigavel no front-end
 - [ ] Configurar todo back-end (ou pelo front-end mesmo pelo javascript) com a validaço do arquivo Multipag
