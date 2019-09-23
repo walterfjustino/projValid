@@ -3,11 +3,11 @@
 
 ![image](https://user-images.githubusercontent.com/50602816/65398303-c0201a00-dd8c-11e9-8479-03d3331da43f.png)
 
-Iniciamos esse projeto com objetivo de unificar nossa vontade de aprender, paixão por programação e amizade com uma solução que entendemos ser necessaria implantação na empresa que trabalhamos, tanto no departamento que ja trabalhaos juntos no banco bem como para os clientes que precisam de um validador de arquivo de remessa. 
+Iniciamos esse projeto com objetivo de unificar nossa vontade de aprender, paixão por programação e amizade com uma solução que entendemos ser necessaria implantação na empresa, tanto no departamento que ja trabalhamos juntos no banco bem como para os clientes que precisam de um validador de arquivo de remessa. 
 
-O produto Multipag Bradesco trata-se do mainframe do banco recebendo arquivos dos cliente para efetuar todos os tipos de transações com pagamento; é possivel pagar boletos, funcionarios, transferencias, pagamento de tributos e contas de consumo, receber retornos de boletos DDA e mais algumas funcionalidades, mas essas so as principais. 
+O produto Multipag Bradesco trata-se de arquivos que os cliente enviam para efetuar todos os tipos de transações com pagamento; é possivel pagar boletos, funcionarios, transferencias, pagamento de tributos e contas de consumo, receber retornos de boletos DDA e mais algumas funcionalidades.
 
-Esse validador que estamos desenvolvendo na verdade ja existe uma versão, porem estamos dando uma cara melhor uma interface amigavel e por ser um projeto opensource contamos com a colaboração da comunidade para ajudar a corrigir bugs e melhorar sempre o codigo. 
+Esse validador que estamos desenvolvendo na verdade já existe uma versão, porem estamos dando uma cara melhor uma interface amigavel e por ser um projeto opensource contamos com a colaboração da comunidade para ajudar a corrigir bugs e melhorar sempre o codigo. 
 
 -[ x ] Criar uma interface amigavel no front-end
 -[ ] Configurar todo back-end com a validaço dos arquivos Multipag
