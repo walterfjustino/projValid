@@ -1,4 +1,4 @@
-# projValid
+# projValid - Validador Multipag
 <h1>Validador de arquivos bancarios - Multipag Bradesco</h1>
 
 ![image](https://user-images.githubusercontent.com/50602816/65398303-c0201a00-dd8c-11e9-8479-03d3331da43f.png)
