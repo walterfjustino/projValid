@@ -4,6 +4,8 @@
 Iniciamos esse projeto com objetivo de unificar nossa vontade de aprender, paixão por programação e amizade com uma solução que entendemos ser de grande ajuda à muitas empresas que utilizam a troca de arquivos com o banco, porém às vezes tem uma certa dificuldade de entendimento na validação desses arquivos.
 obs: os arquivos serão validados no padrão CNAB Bradesco. 
 
+Link de acess a aplicação: https://walterfjustino.github.io/projValid/
+
 - [x] Criar uma interface amigavel no front-end
 - [ ] Configurar todo back-end (ou pelo front-end mesmo pelo javascript) com a validaço do arquivo Multipag
 - [ ] Estender o projeto para validaço de demais arquivos bancarios
